@@ -4,7 +4,7 @@ I wrote a TypeScript user registration and login system. Users can choose to reg
 
 I wrote this so that I could learn about TypeScript since I have never used it before and heard it was a very useful language to know.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/F1_ekQ0JoQQ)
 
 # Development Environment
 
